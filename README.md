@@ -63,35 +63,35 @@ Antes de iniciar, é recomendável ter conhecimento básico em:
 ## 📂 Como Usar este Repositório
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Laravel-com-vue.git
+```bash
+git clone https://github.com/seu-usuario/Laravel-com-vue.git
 
-  ```
-  - Acesse o diretório:
+```
+2. Acesse o diretório:
 
 ```bash
 
-   cd Laravel-com-vue
+cd Laravel-com-vue
 
 ```
 
-2. Instale as dependências do Laravel:
+3. Instale as dependências do Laravel:
 
 ```bash
 
-   composer install
+composer install
 
 ```
 
-3. Instale as dependências do Vue:
+4. Instale as dependências do Vue:
 
 ```bash
 
-   npm install
+npm install
 
 ```
 
-4. Execute o servidor Laravel:
+5. Execute o servidor Laravel:
 
 ```bash
 
@@ -99,11 +99,11 @@ Antes de iniciar, é recomendável ter conhecimento básico em:
 
 ```
 
-5. Execute o frontend Vue:
+6. Execute o frontend Vue:
 
 ```bash
 
-    npm run dev
+npm run dev
 
 ```
 
@@ -111,16 +111,3 @@ Antes de iniciar, é recomendável ter conhecimento básico em:
 
 Sinta-se à vontade para sugerir melhorias ou relatar problemas!
 📢 Prepare-se para mergulhar no universo Laravel e Vue 3 e criar aplicações incríveis! 🚀
-
-
-
-
-
-
-
-
-
-   npm run dev
-
-```
-
