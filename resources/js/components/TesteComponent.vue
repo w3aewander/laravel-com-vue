@@ -1,5 +1,6 @@
 <template>
     <div>
+        
         <h1>Este é um componente</h1>
         <p>{{ titulo }}</p>
     </div>

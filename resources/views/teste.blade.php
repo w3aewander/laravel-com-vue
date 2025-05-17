@@ -3,6 +3,7 @@
 @section('content')
 
 <header-component></header-component>
+<navbar-component></navbar-component>
 
 <div class="container py-5">
     
